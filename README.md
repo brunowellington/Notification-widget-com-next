@@ -1,4 +1,4 @@
-## Desenvolvendo um widget de notificação a partir do curso da Rocketseat
+## Desenvolvendo um widget de notificação a partir do curso da Rocketseat com Next.js e Tailwind
 
 
 ------
