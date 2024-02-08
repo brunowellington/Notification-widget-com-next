@@ -1,4 +1,4 @@
-## Desenvolvendo um widget de notificação a partir do curso da RocketSeat
+## Desenvolvendo um widget de notificação a partir do curso da Rocketseat
 
 
 ------
